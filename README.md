@@ -5,4 +5,4 @@
 Входной файл input.txt сформирован.
 
 Запускаем, получаем ответ в output.txt.
-Windows 7x64
+Windows 7x64.
